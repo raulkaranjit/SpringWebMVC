@@ -18,4 +18,8 @@
        		<value>.jsp</value>
        	</property>
        </bean>
+       
+       <!-- <bean id="freemarkerConfiguration" class="org.springframework.ui.freemarker.FreeMarkerConfigurationFactoryBean">
+       		<property name="templateLoaderPath" value="/WEB-INF/freemarker/"/>
+       </bean> -->
 </beans>
